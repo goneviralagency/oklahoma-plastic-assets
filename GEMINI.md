@@ -1,0 +1,5 @@
+<!-- BEGIN FACTORY-FIRST ENTRYPOINT v1 -->
+## Factory routing is mandatory
+Read the repository-root `AGENTS.md` mandatory factory-first policy and `.factory/README.md` before coding, research, tests or builds. Delegate mechanical work to the owner's existing authorized pools/runners, use only qualified budget-admitted coding agents, preserve all project gates, and return exact job/evidence receipts. Do not silently do lengthy serial work in the primary paid agent or spawn more paid workers.
+<!-- END FACTORY-FIRST ENTRYPOINT v1 -->
+
